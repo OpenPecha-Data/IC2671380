@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN487
   title: ཐེག་དགུ་སྤྱི་ཆིངས་ཀྱི་རྩ་འགྲེལ།
-  volume: ''
+  volume:
+    869f7e0aeb8c440fb2af52c47b0310da:
+      image_group_id: I3CN21125
+      title: Volume 1 of theg dgu spyi chings kyi rtsa 'grel/
+      volume_number: 1
+      total_pages: 362
   author: ''
+ebook_metadata:
+  title: ཐེག་དགུ་སྤྱི་ཆིངས་ཀྱི་རྩ་འགྲེལ།
+  author: ''
+  sku: P000489
+  cover: cover.jpg
+  layers:
+  - pagination
