@@ -1,15 +1,16 @@
-id: opecha:P000489
+id: P000489
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN487
   title: ཐེག་དགུ་སྤྱི་ཆིངས་ཀྱི་རྩ་འགྲེལ།
-  volume:
+  author: ''
+  volumes:
     869f7e0aeb8c440fb2af52c47b0310da:
       image_group_id: I3CN21125
       title: Volume 1 of theg dgu spyi chings kyi rtsa 'grel/
       volume_number: 1
       total_pages: 362
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཐེག་དགུ་སྤྱི་ཆིངས་ཀྱི་རྩ་འགྲེལ།
   author: ''
